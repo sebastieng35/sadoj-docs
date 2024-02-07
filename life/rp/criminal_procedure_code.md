@@ -165,9 +165,9 @@ Dans le cas où le casier judiciaire et/ou le profil psychologique/judiciaire du
 
 **3.2.4** Si l’enquête dure plus d’un mois, l’affaire est classée sans suite. Ce délai ne fonctionne que pour les procureurs, les policiers et les juges. Si un avocat ne répond à aucune demande de la part de la justice, ce délai ne démarre pas.
 
-**3.2.5** Un véhicule personnel ne peut pas être saisi définitivement sauf dans le cas où son propriétaire en serait passager ou conducteur contre son gré.
+**3.2.5** Un véhicule personnel peut être saisi définitivement sauf dans le cas où son propriétaire en serait passager ou conducteur contre son gré.
 
-**3.2.6** Un véhicule détenu par une entreprise ne peut pas être saisi définitivement sauf dans le cas où le propriétaire de ladite entreprise en serait passager ou conducteur contre son gré.
+**3.2.6** Un véhicule détenu par une entreprise peut être saisi définitivement sauf dans le cas où le propriétaire de ladite entreprise en serait passager ou conducteur contre son gré.
 
 ### Chapitre 3. Les mandats
 
