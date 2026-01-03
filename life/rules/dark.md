@@ -10,7 +10,7 @@
 > Le vote sanction doit rester une procédure exceptionnelle non banalisée.
 
 > [!TIP]
-> **Pour toute question concernant le dark, veuillez vous adresser au référent, Wrc.**
+> **Pour toute question concernant le dark, veuillez vous adresser au référent Dark.**
 
 ## Définitions
 
@@ -192,7 +192,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
 
 ## Les services où l’illégal est interdit
 
-* Les actions illégales et la corruption sont autorisées pour les services / postes suivants, il faut faire une demande sur dossier auprès du groupe Dark :
+* Les actions illégales et la corruption sont autorisées pour les services / postes suivants, il faut faire une demande sur dossier auprès du Référent Dark via https://discord.gg/yYD9v7kf :
   * Police (dont Fire marshal) (1/5 maximum)
   * Juges (1/3 maximum)
   * Procureurs (1/3 maximum)
@@ -307,6 +307,6 @@ Plusieurs spécialisations seront disponibles en jeu :
 
 > **Rédigé par le groupe dark pour la communauté.**
 >
-> Le groupe dark peut modifier librement ce règlement, mais la communauté peut imposer son désaccord par un vote communautaire.
+> Le groupe dark peut modifier librement ce règlement, mais la communauté peut faire valoir son désaccord via un vote communautaire.
 
 
