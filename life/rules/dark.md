@@ -196,7 +196,7 @@ L’informateur est inclus dans le prix de création de l’organisation.
   * Police (dont Fire marshal) (1/5 maximum)
   * Juges (1/3 maximum)
   * Procureurs (1/3 maximum)
-* Les actions illégales ainsi que la corruption sont autorisées pour les services / postes suivants, il faut faire une demande pour chaque action auprès du Groupe Dark qui jugera si l'action demandée par le commanditaire est possible ou pas :
+* Les actions illégales ainsi que la corruption sont autorisées pour les services / postes suivants, il faut faire une demande pour chaque action auprès du Référent Dark qui jugera si l'action demandée par le commanditaire est possible ou pas :
   * Le Gouverneur et Lieutenant Gouverneur
   * Contrôleur fiscal
   * SASAA
